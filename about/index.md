@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a Full-Stack Web Developer, born and raised in London, now living and working in NYC.
+I am a Full-Stack Web Developer, born and raised in London, living and working in NYC.
 
 ### Work
 
