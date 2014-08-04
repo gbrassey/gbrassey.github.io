@@ -1,0 +1,20 @@
+---
+layout: post
+title: Medium Specificity in iOS 7
+---
+
+I want to throw out a big question and see how people react to it. Since the iOS 7 announcement, I’ve had an idea rattling around my head that I can’t seem to shake. With regards to Apple’s new approach for Human Interface (as laid out in the [iOS Dev Center](https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html "iOS Dev Center")), I’ve been wondering how future smart devices will manifest and whether iOS 7 can be justified as a useful step in the evolution.
+
+Particularly, I’m interested in pursuing the [*specificity*](http://en.wikipedia.org/wiki/Medium_specificity "Medium Specificity") of the mobile, multi-touch device. *Specificity* of a medium refers to the features which make that medium different from others or the unique things it can achieve. An example is the corresponding development of abstract painting with the invention of photography, which rendered the prevailing realism redundant. Painters had to find new forms of expression to keep the medium relevant.
+
+Now there is no technology that will make smart devices redundant (not yet), and still the market is pushing innovation. With processing power hitting a physical limit and [Moore's Law](http://en.wikipedia.org/wiki/Moore "Moore's Law") finally showing signs of slowing, the shift has been toward making chips smaller and ubiquitous. The pursuit has changed from making the biggest, baddest computer to discovering new interactions; new uses for a mature technology.
+
+And yet the mobile platform is still in relative infancy. Just as people feared the horseless carriage, or wondered whether their first telephone was listening to everything they said, the hurdle for the technology industry is nurturing consumer acceptance of their product. (Sure it’s great to have a machine that can do your walking and take half the time but nobody wanted a [Segway](http://www.time.com/time/specials/packages/article/0,28804,1898610_1898625_1898641,00.html "Segway").) This is why user experience has become such a popular area of development. There are more computers available than ideas to harness them. Startups are a dime a dozen and, for many, promise to make a difference rather than the giant multinational platform-building conglomerates such as Apple and Google.
+
+A platform is, after all, what iOS 7 should be viewed as. As wonderful as iOS has been and how revolutionary the device the iPhone was when launched 6 years ago, it was the introduction of the app store that really affected how people use their devices. This fostered an adoption which has us carrying our email, calendar, fact-finding, geo-locating device with us everywhere because it has become indispensable. The benefits far outweigh the potential invasion of privacy or even personal space, when we carry/wear our devices everywhere. And thanks to the millions of apps available, there is something for everyone.
+
+So, with iOS 7, we have an interface that has been evolving for 6 years. There haven’t been massive changes to the OS before. The buttons and menus were redesigned but ultimately functioned the same and new features were incorporated. And after fine tuning this system, Apple has rewritten the script and gone back to basics; a large overhaul which many were demanding but many more were just getting used to.
+
+In this dramatic new direction, Apple is certainly testing the limits, demonstrated by the ongoing discourse. What is Apple seeking? Will the re-imagining of an interface lead to discoveries in interaction, perhaps something more [specific](https://medium.com/wwdc-round-up/e5b7bf3318e8 "Why iOS 7 Doesn't Have Shadows") to the [medium](https://medium.com/@jedsundwall/ios-7-and-the-iphones-inherent-properties-93898fe22188 "iOS 7 and the iPhone’s Inherent Properties") or will their development guidelines [alienate](http://binarybonsai.com/blog/ios7) the average user?
+
+(Please leave comments, thoughts and links below!)
