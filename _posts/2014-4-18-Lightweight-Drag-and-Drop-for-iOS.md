@@ -15,14 +15,14 @@ We googled far and wide but could find no solution. ([HTML5 drag and drop](https
 
 And so we resolved to build a jQuery plugin and were pleasantly surprised to discover this undertaking was much simpler than first anticipated. Not only that, but our solution meant that, aside from changing the script which controlled these activities, we did not have to change any of the markup already written for dozens of pages.
 
-# Development
+## Development
 This [blog post](http://popdevelop.com/2010/08/touching-the-web/ "Touching The Web") was a great jumping off point, it had done much of the hard work for us, showing us how to tie a touch event to a moving element. Despite being a great resource, the script animates with the “top” and “left” properties. While these work on all platforms, they use [a lot of CPU power](http://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/ "Why Moving Elements With Translate() Is Better Than Pos:abs Top/left"), too much for the poor iPad. And so we updated the code to use CSS3 translate. This change was light and day. iOS webkit hardware accelerates CSS translates through the GPU and the performance improvement was significant.
 
 Next we needed to add functionality to drop a “draggable” inside a “droppable”. This was done in two steps. First we added an initialization for “droppable” elements which would calculate the coordinates of the “droppable” and store these values in the data attribute of that element. Next we added an event handler for dropping an element, which finds if the last touch event occurred inside the bounds of a “droppable”. If this is the case, then we translate the “draggable” to sit on top of the “droppable”.
 
 Along the way we added certain functionality specific to our project such as populating an object named “dragInput”, which contains the placement of any dragged items and can then be compared against another object which holds the correct matches for a quiz style drag and drop activity.
 
-# Conclusion
+## Conclusion
 Since integrating this into our project, I have tried to extend the plugin by adding mouse event listeners. There are limitations, such as dropping an element when the mouse escapes the bounds, despite the ‘mousedown’ event still being active. I have seen this behavior elsewhere. jQuery UI must use event listeners on the window to make up for this deficiency. Although I bemoan jQuery UI’s use of pre-CSS3 techniques, having tried to replicate the functionality with mouse events, I appreciate the depth of their project. The touch events were comparatively robust and behaved as expected.
 
 CSS transforms are very powerful and although confusing at first glance, they give web developers exciting possibilities for creating native like experiences within browsers. By using transforms, our drag activities went from crashing the iPad to outperforming jQuery UI draggables on a desktop.

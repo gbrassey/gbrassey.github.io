@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 1em 0 0.42em;
   padding: 0;
 
   @include mobile {
@@ -46,19 +46,26 @@ h1, h2, h3, h4, h5, h6 {
   
 h1 {  
   font-weight: 500;
-  font-size: 32px;
+  font-size: 60px;
+  line-height: 60px;
+  margin: 1em 0;
   a {
     color: inherit;
+  }
+  @include mobile {
+    font-size: 36px;
+    line-height: 39px;
   }
 }
 
 h2 {  
   font-weight: 400;
-  font-size: 24px;
-}
-
-h3 {  
-  font-size: 18px;
+  font-size: 36px;
+  line-height: 43px;
+  @include mobile {
+    font-size: 26px;
+    line-height: 31px;
+  }
 }
 
 h4 {  
@@ -67,7 +74,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 0 0 30px;
 }
 
 a {
@@ -99,7 +106,14 @@ ol ul, ul ol, ul ul, ol ol {
 ul ul, ol ul {
   list-style-type: circle;
 }
-
+p, ul, ol, h3 {
+  font-size: 22px;
+  line-height: 33px;
+  @include mobile {
+    font-size: 20px;
+    line-height: 28px;
+  }
+}
 em, i {
   font-style: italic;
 }
@@ -162,8 +176,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 120px;
+  height: 120px;
   margin-right: 15px;
 
   @include mobile {
@@ -173,12 +187,13 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 50%;
   }
 }
 
 .site-info {
   float: left;
+  margin: 7px 0;
 
   @include mobile {
     float: none;
@@ -193,8 +208,11 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue; 
   font-weight: 300;
-  font-size: 28px;
+  font-size: 36px;
   letter-spacing: 1px;
+  @include mobile {
+    font-size: 28px;
+  }
 }
 
 .site-description {
@@ -209,15 +227,15 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 45px; // @TODO: Vertically middle align
   font-family: $helveticaNeue; 
-  font-size: 18px;
+  font-size: 22px;
   
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 18px;
   }
 
   a {
@@ -246,6 +264,15 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+.posts .entry > p:last-child {
+  margin-bottom: 5px;
+}
+.posts .entry {
+  p, h1, h2, h3, ul, ol {
+    font-size: 18px;
+    line-height: 25px;
+  }
 }
 
 .post { 
