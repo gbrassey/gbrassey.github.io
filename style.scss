@@ -256,25 +256,31 @@ nav {
 // .main
 //
 
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
+.posts {
+  > .post {
+    padding-bottom: 2em;
+    border-bottom: 1px solid $lightGray;
+  }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-.posts .entry > p:last-child {
-  margin-bottom: 5px;
-}
-.posts .entry {
-  p, h1, h2, h3, ul, ol {
-    font-size: 18px;
-    line-height: 25px;
+  > .post:last-child {
+    padding-bottom: 1em;
+    border-bottom: none;
+  }
+  .entry > p:last-child {
+    margin-bottom: 5px;
+  }
+  .entry {
+    margin-bottom: 5px;
+    p, h1, h2, h3, ul, ol {
+      font-size: 18px;
+      line-height: 25px;
+    }
+  }
+  .post-info {
+    font-size: 15px;
+    font-style: italic;
   }
 }
-
 .post { 
   blockquote {
     margin: 1.8em .8em;
@@ -288,10 +294,9 @@ nav {
   .comments {
     margin-top: 10px;
   }
-
   .read-more {
-    text-transform: uppercase;
     font-size: 15px;
+    text-transform: uppercase;
   }
 }
 
