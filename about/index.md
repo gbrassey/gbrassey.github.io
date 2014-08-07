@@ -13,4 +13,4 @@ He works at [The Mechanism](http://www.themechanism.com "The Mechanism"). You ca
 
 Check out this awesome website he built for his [author father](http://www.richardbrassey.com "Richard Brassey").
 
-He occasionally posts work on [GitHub](http://github.com/gbrassey "gbrassey on GitHub")
+Occasionally, he posts work on [GitHub](http://github.com/gbrassey "gbrassey on GitHub")
