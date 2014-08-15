@@ -203,3 +203,5 @@ In our iframe-main.js file, we will create another instance of easyXDM.Rpc and c
 2. Lines 14-20; an example of how we call our remote function. Notice the anonymous function we pass to the remote function to return our requested data. This is an asynchronous function
 
 Stay tuned for more on the Venus project to find out where it goes next. Dhruv Mehrotra will be back in a few weeks with a blog post going over some of the steps taken to set up the Ruby on Rails server behind Venus. And we will have meetup at our offices the second week of September. Hope to see you there!
+
+This post originally appeared on [The Mechanism's Blog](http://www.themechanism.com/voice/2014/08/15/how-to-build-an-easy-embedabble-widget/ "How to Build an Easy Embedabble Widget").

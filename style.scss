@@ -117,6 +117,12 @@ ul pre, ul code {
     line-height: 28px;
   }
 }
+p pre, p code,
+ol pre, ol code,
+ul pre, ul code {
+  background-color: #ddd;
+  color: black;
+}
 em, i {
   font-style: italic;
 }
