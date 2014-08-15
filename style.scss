@@ -106,7 +106,10 @@ ol ul, ul ol, ul ul, ol ol {
 ul ul, ol ul {
   list-style-type: circle;
 }
-p, ul, ol, h3 {
+p, ul, ol, h3,
+p pre, p code,
+ol pre, ol code,
+ul pre, ul code {
   font-size: 22px;
   line-height: 33px;
   @include mobile {
