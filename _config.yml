@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: gbrassey
+name: GBrassey
 
 # Short bio or description (displayed in the header)
 description: NYC Web Developer
@@ -17,14 +17,14 @@ avatar: /images/george-177.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
+  dribbble:
   email: gbrassey@gmail.com
-  facebook: 
-  flickr: 
+  facebook:
+  flickr:
   github: gbrassey
   instagram: gbrassey
-  linkedin: 
-  pinterest: 
+  linkedin:
+  pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter:
 
@@ -38,7 +38,7 @@ google_analytics: UA-42863879-1
 # Used for Sitemap.xml and your RSS feed
 url: http://github.gbrassey.com
 
-# If you're hosting your site at a Project repository on GitHub pages 
+# If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
@@ -61,9 +61,9 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
-  - jemoji # Emoji please!
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+# gems:
+  # - jemoji # Emoji please!
+  # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude these files from your production _site
 exclude:

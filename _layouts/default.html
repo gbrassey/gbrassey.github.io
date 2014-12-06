@@ -56,5 +56,12 @@
     {% include analytics.html %}
     <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.1/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
+    <script>
+      var extAnchors = document.querySelectorAll('a[rel*=external]');
+
+      for (var i=0; i<extAnchors.length; i++){
+        extAnchors[i].setAttribute('target', '_blank');
+      }
+    </script>
   </body>
 </html>
