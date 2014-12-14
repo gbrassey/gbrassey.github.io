@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Empire State Realty Trust (formerly Malkin Holdings)
+title: Empire State Realty Trust
 ---
 
 <a href="http://www.empirestaterealtytrust.com" title="Empire State Realty Trust" rel="external">Live Site</a>
+
+<div class="image-wrap">
+	<img src="/images/esrt-preview.jpg" title="ESRT Preview" alt="ESRT Preview">
+</div>
 
 * Changeover of Malkin Properties and it's affiliated websites during their IPO and rebranding as ESRT
 * Handled all technical areas of the changeover with zero downtime, ready for the market bell, the morning their stock floated

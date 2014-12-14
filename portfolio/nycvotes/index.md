@@ -5,7 +5,11 @@ title: NYCVotes
 
 <a href="https://www.nycvotes.org" title="NYCVotes" rel="external">Live Site</a>
 
-* Extending an existing tool for built by the NYC Campaign Finance Board (CFB) with three goals:
+<div class="image-wrap">
+	<img src="/images/nycvotes-preview.jpg" title="NYCVotes Preview" alt="NYCVotes Preview">
+</div>
+
+* Extending an existing tool built for the NYC Campaign Finance Board (CFB) with three goals:
 	* Simplify process for campaigns relaying contributions made through the app to the CFB’s C-SMART campaign reporting tool
 	* Google Civic API integration
 	* Responsive Site Design

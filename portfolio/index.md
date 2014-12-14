@@ -1,37 +1,37 @@
 ---
 layout: page
-title: Projects
+title: Portfolio
 ---
 
-### [eLearning Platform](/projects/elearning-platform/)
+### [eLearning Platform](/portfolio/elearning-platform/)
 
 Custom eLearning platform for pharmaceutical training sales teams.
 
-### [NYCVotes](/projects/nycvotes/)
+### [NYCVotes](/portfolio/nycvotes/)
 
-Extending an existing tool for built by the NYC Campaign Finance Board.
+Extending an existing tool built for the NYC Campaign Finance Board.
 
-### [SafeFare](/projects/safefare/)
+### [SafeFare](/portfolio/safefare/)
 
 Created a tool for diners with food allergies to find restaurants, certified to handle their needs.
 
-### [Empire State Realty Trust (formerly Malkin Holdings)](/projects/esrt/)
+### [Empire State Realty Trust](/portfolio/esrt/)
 
 Changeover of Malkin Properties and it’s affiliated websites during their IPO and rebranding as ESRT.
 
-### [Project Venus](/projects/project-venus/)
+### [Project Venus](/portfolio/project-venus/)
 
 A tool for collecting client feedback during User Assisted Testing.
 
-### [Year of the Dragon](/projects/yotd/)
+### [Year of the Dragon](/portfolio/yotd/)
 
 A website for the band YEAR OF THE DRAGON, sourcing content from social media.
 
-### [RichardBrassey.com](/projects/richard-brassey/)
+### [Richard Brassey](/portfolio/richard-brassey/)
 
 A fun website to showcase the books of this children’s author.
 
-### [Paminalondon.com](/projects/pamina-london/)
+### [Pamina London](/portfolio/pamina-london/)
 
 Custom Squarespace template for displaying jewelry.
 
