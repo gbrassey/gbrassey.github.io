@@ -3,9 +3,23 @@ layout: page
 title: Portfolio
 ---
 
+## Web Development Experience — <a href="/pdf/George_Brassey-Resume.pdf" rel="external">Resume</a>
+Professional experience with the following languages and frameworks:
+
+* PHP (CodeIgniter, WordPress)
+* JavaScript (NodeJS, jQuery, AngularJS)
+* MySQL
+* Ruby (on Rails)
+
+---
+
+### [Empire State Realty Trust](/portfolio/esrt/)
+
+Changeover of Malkin Properties and it’s affiliated websites during their IPO and rebranding as ESRT.
+
 ### [eLearning Platform](/portfolio/elearning-platform/)
 
-Custom eLearning platform for pharmaceutical training sales teams.
+Custom eLearning platform for training pharmaceutical sales teams.
 
 ### [NYCVotes](/portfolio/nycvotes/)
 
@@ -14,10 +28,6 @@ Extending an existing tool built for the NYC Campaign Finance Board.
 ### [SafeFare](/portfolio/safefare/)
 
 Created a tool for diners with food allergies to find restaurants, certified to handle their needs.
-
-### [Empire State Realty Trust](/portfolio/esrt/)
-
-Changeover of Malkin Properties and it’s affiliated websites during their IPO and rebranding as ESRT.
 
 ### [Project Venus](/portfolio/project-venus/)
 
@@ -31,15 +41,17 @@ A website for the band YEAR OF THE DRAGON, sourcing content from social media.
 
 A fun website to showcase the books of this children’s author.
 
-### [Pamina London](/portfolio/pamina-london/)
+### [Pamina](/portfolio/pamina/)
 
-Custom Squarespace template for displaying jewelry.
+Customized Squarespace template for displaying jewelry.
+
+---
 
 ## Open Source Projects
 
 ### <a href="https://github.com/gbrassey/The-Social-Mechanism" title="The Social Mechanism" rel="external">The Social Mechanism</a>
 
-A project in two parts. The 'scraper' stores Social Media posts from multiple Facebook, Twitter and Instagram accounts into a MongoDB. The 'api' serves a JSON of the most recent posts.
+A project in two parts. The 'scraper' stores Social Media posts from multiple Facebook, Twitter and Instagram accounts into a MongoDB. The 'API' serves a JSON of the most recent posts.
 
 ### <a href="https://github.com/gbrassey/node-boilerplate" title="Node Boilerplate" rel="external">Node Boilerplate</a>
 

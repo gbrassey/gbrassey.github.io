@@ -6,10 +6,20 @@ title: Year of the Dragon
 <a href="http://yotd.la" title="YOTD" rel="external">Live Site</a>
 
 <div class="image-wrap">
-	<img src="/images/yotd-preview.jpg" title="YOTD Preview" alt="YOTD Preview">
+	<a href="http://yotd.la" title="YOTD" rel="external">
+		<img src="/images/yotd-preview.jpg" title="YOTD Preview" alt="YOTD Preview">
+	</a>
 </div>
 
-* A website for the band Year of the Dragon, sourcing content from social media
-* Conceived the general layout and function of the website and developed it
-* By sourcing the content from social media, where the band has an active presence, the app requires minimal maintenance from the band. Built with cutting edge technologies, Node.js and mongodb (No-SQL database)
-* Client thrilled. Social media engagement has increased since
+The Mechanism took on this project as a chance to implement our open source <a href="https://github.com/theMechanism/The-Social-Mechanism" rel="external">Social Mechanism</a>, a tool for collating social media from multiple sources.
+
+As a band with an active social media presence and little time to learn a new content management system, this solution requires no additional maintenance by the band and expands their audience.
+
+I conceived the layout and refactored existing code to bring it up to prodcution standard. It was also a chance to deploy our first Node.js project on a No-SQL database.
+
+### Technologies:
+
+* Node.js
+* Mongodb
+* Express
+* API integration with Facebook, Twitter, Instagram and Youtube

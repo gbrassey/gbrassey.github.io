@@ -6,9 +6,22 @@ title: SafeFare
 <a href="http://www.safefare.org" title="SafeFare" rel="external">Live Site</a>
 
 <div class="image-wrap">
-	<img src="/images/safefare-preview.jpg" title="SafeFare Preview" alt="SafeFare Preview">
+	<a href="http://www.safefare.org" title="SafeFare" rel="external">
+		<img src="/images/safefare-preview.jpg" title="SafeFare Preview" alt="SafeFare Preview">
+	</a>
 </div>
 
-* Created a tool for diners with food allergies to find restaurants, certified to handle their needs
-* Oversaw a new team through the development of their first full scale project
-* Innovation?
+Food Allergy Research & Education Inc. hired The Mechanism as a partner to develop this listing website for restaurants and businesses with certified employees, trained to serve customers with allergies.
+
+Users can search the database based on many criteria, including location and cuisine. The content management system allows restaurants to create entries that are then screened by SafeFare admins.
+
+I oversaw the development of this project as well as conceptualized the logic behind the search functionality.
+
+The website has been mentioned in the <a href="http://www.nytimes.com/2014/05/08/business/those-keeping-a-diet-find-better-signposts-to-dining-on-the-road.html?_r=0" rel="external" title="Those Keeping a Diet Find Better Signposts to Dining on the Road">NYTimes</a>.
+
+### Technologies:
+
+* Ruby (on Rails)
+* Postgres
+* JavaScript (jQuery)
+* SASS

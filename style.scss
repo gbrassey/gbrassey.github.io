@@ -46,8 +46,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-weight: 500;
-  font-size: 60px;
-  line-height: 60px;
+  font-size: 45px;
+  line-height: 45px;
   margin: 0.75em 0;
   a {
     color: inherit;
@@ -73,7 +73,7 @@ h4 {
   color: $gray;
 }
 
-p, pre {
+p, ul, ol, pre {
   margin: 0 0 30px;
 }
 
@@ -88,7 +88,6 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
   padding-left: 30px;
 }
 
@@ -177,7 +176,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -304,12 +302,15 @@ nav {
   .image-wrap {
     background-color: $lightGray;
     display: block;
-    margin: auto;
-    padding: 5px 5px 7px;
+    margin: 0 auto 30px;
+    padding: 10px 10px 15px;
     text-align: center;
     img {
       max-width: 100%;
       vertical-align: top;
+    }
+    a[rel="external"]:after {
+      display: none;
     }
   }
 
@@ -334,8 +335,6 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
 
