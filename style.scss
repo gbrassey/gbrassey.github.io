@@ -142,12 +142,12 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: $darkGray;
+  background: lighten($blue, 10%);
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: $darkGray;
+  background: lighten($blue, 10%);
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -303,7 +303,7 @@ nav {
     background-color: $lightGray;
     display: block;
     margin: 0 auto 30px;
-    padding: 10px 10px 15px;
+    padding: 10px;
     text-align: center;
     img {
       max-width: 100%;

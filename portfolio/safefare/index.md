@@ -17,7 +17,9 @@ Users can search the database based on many criteria, including location and cui
 
 I oversaw the development of this project as well as conceptualized the logic behind the search functionality.
 
-The website has been mentioned in the <a href="http://www.nytimes.com/2014/05/08/business/those-keeping-a-diet-find-better-signposts-to-dining-on-the-road.html?_r=0" rel="external" title="Those Keeping a Diet Find Better Signposts to Dining on the Road">NYTimes</a>.
+### Publicity
+
+<a href="http://www.nytimes.com/2014/05/08/business/those-keeping-a-diet-find-better-signposts-to-dining-on-the-road.html?_r=0" rel="external" title="Those Keeping a Diet Find Better Signposts to Dining on the Road">Those Keeping a Diet Find Better Signposts to Dining on the Road – NYTimes</a>
 
 ### Technologies:
 

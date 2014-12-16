@@ -13,29 +13,29 @@ Professional experience with the following languages and frameworks:
 
 ---
 
-### [Empire State Realty Trust](/portfolio/esrt/)
-
-Changeover of Malkin Properties and it’s affiliated websites during their IPO and rebranding as ESRT.
-
-### [eLearning Platform](/portfolio/elearning-platform/)
-
-Custom eLearning platform for training pharmaceutical sales teams.
-
 ### [NYCVotes](/portfolio/nycvotes/)
 
 Extending an existing tool built for the NYC Campaign Finance Board.
 
-### [SafeFare](/portfolio/safefare/)
+### [Empire State Realty Trust](/portfolio/esrt/)
 
-Created a tool for diners with food allergies to find restaurants, certified to handle their needs.
+Changeover of Malkin Properties and it’s affiliated websites during their IPO and rebranding as ESRT.
 
 ### [Project Venus](/portfolio/project-venus/)
 
 A tool for collecting client feedback during User Assisted Testing.
 
+### [eLearning Platform](/portfolio/elearning-platform/)
+
+Custom eLearning platform for training pharmaceutical sales teams.
+
 ### [Year of the Dragon](/portfolio/yotd/)
 
-A website for the band YEAR OF THE DRAGON, sourcing content from social media.
+A website for the band Year of the Dragon, sourcing content from social media.
+
+### [SafeFare](/portfolio/safefare/)
+
+Tool for diners with food allergies to find restaurants certified to handle their needs.
 
 ### [Richard Brassey](/portfolio/richard-brassey/)
 

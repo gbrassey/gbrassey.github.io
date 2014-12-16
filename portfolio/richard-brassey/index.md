@@ -11,11 +11,11 @@ title: Richard Brassey
 	</a>
 </div>
 
-This website, the first built after a 5 year hiatus while working in the film industry was a portfolio piece, demonstrated my emergent ability as a Web Developer.
+The first website built after a 5 year hiatus while working in the film industry was a portfolio piece to demonstrate my emergent ability as a Web Developer.
 
-Designed and built from scratch with the use of few libraries and frameworks, was an excellent opportunity to learn the basics of Web Development.
+Designed and built from scratch with the use of few libraries and frameworks, it was an excellent opportunity to learn the basics of Web Development.
 
-The simple and fun design showcases the books of this children's author and is powered by a custom CMS.
+The simple and fun design showcases the books of this children's author and is powered by a custom CMS built.
 
 Innovations include the use of AJAX to limit the website to a single page.
 
