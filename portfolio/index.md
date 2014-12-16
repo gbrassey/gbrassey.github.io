@@ -11,8 +11,6 @@ Professional experience with the following languages and frameworks:
 * MySQL
 * Ruby (on Rails)
 
----
-
 ### [NYCVotes](/portfolio/nycvotes/)
 
 Extending an existing tool built for the NYC Campaign Finance Board.
