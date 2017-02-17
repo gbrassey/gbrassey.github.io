@@ -9,4 +9,4 @@ Through a degree in Cinema Studies from NYU and <a href="http://www.imdb.com/nam
 
 Today, the Internet is reaching a critical mass of user adoption and the near future promises seismic changes. George is thrilled to be a part of this.
 
-He works at <a href="http://www.themechanism.com" Title="The Mechanism" rel="external">The Mechanism</a>. You can read more of his writing on <a href="http://www.themechanism.com/voice/author/georgebrassey/" rel="external" title="George Brassey's writing on The Mechanism's Blog">The Mechanism's Blog</a>. He also [podcasts](http://www.themechanism.com/voice/category/the-mechcast/ "The Mechcast").
+He works at <a href="https://paddle8.com/" Title="Paddle8" rel="external">Paddle8</a>.
