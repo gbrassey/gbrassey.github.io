@@ -3,13 +3,12 @@ layout: page
 title: Portfolio
 ---
 
-## Web Development Experience — <a href="/pdf/George_Brassey-Resume.pdf" rel="external">Resume</a>
+## Web Development Experience — <a href="/pdf/GeorgeBrassey_042718.pdf" rel="external">Resume</a>
 Professional experience with the following languages and frameworks:
 
-* PHP (CodeIgniter, WordPress)
 * JavaScript (NodeJS, jQuery, AngularJS)
+* Python (Django)
 * MySQL
-* Ruby (on Rails)
 
 ### [NYCVotes](/portfolio/nycvotes/)
 
